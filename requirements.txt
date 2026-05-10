@@ -1,0 +1,31 @@
+sounddevice
+google-genai
+google-generativeai
+pillow
+requests
+beautifulsoup4
+duckduckgo-search
+playwright
+pyautogui
+pyperclip
+pygetwindow
+opencv-python
+numpy
+mss
+psutil
+comtypes
+pycaw
+win10toast
+send2trash
+youtube-transcript-api
+pywinauto
+rapidfuzz
+chromadb
+sentence-transformers
+pytesseract
+telethon
+faiss-cpu
+
+# Optional local model / advanced vision extras:
+# llama-cpp-python
+# ultralytics
